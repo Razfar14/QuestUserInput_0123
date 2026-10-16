@@ -37,7 +37,16 @@ fun FormDataDiri(modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-
+        OutlinedTextField(
+            value = textNama,
+            singleLine = true,
+            shape = MaterialTheme.shapes.large,
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp),
+            label = { Text(text = "Nama") },
+            onValueChange = {
+                textNama = it
+            }
+        )
 
 
     }
