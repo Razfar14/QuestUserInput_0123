@@ -26,6 +26,8 @@ fun FormDataDiri(modifier: Modifier = Modifier) {
     var textAlamat by remember { mutableStateOf(value = "") }
     var textJK by remember { mutableStateOf(value = "") }
 
+    //variable-variable untuk menyimpan data yang diperoleh dari komponen UI
+    var nama by remember { mutableStateOf(value = "") }
 
 
 }
