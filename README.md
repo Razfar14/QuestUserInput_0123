@@ -1,3 +1,4 @@
 # Hasil Output
-<img width="223" height="496" alt="image" src="https://github.com/user-attachments/assets/e762e5cf-5aaf-47a7-a4f8-ff88701f0130" />
+<img width="1080" height="2400" alt="Screenshot_20261016_101602" src="https://github.com/user-attachments/assets/0bda6ebf-985b-4636-9a66-551a0525af2e" />
+
 
